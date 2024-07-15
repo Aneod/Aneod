@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Aneod
-- 👀 I’m interested in Web developement
-- 🌱 I’m currently learning React, TypeScript and Node.js
-- 📫 How to reach me: blysboutique@gmail.com
+- 📫 How to reach me: Don't.
 
 <!---
 Aneod/Aneod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
